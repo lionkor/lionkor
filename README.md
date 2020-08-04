@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lionkor/lionkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lion, I'm a computer science student from germany with a parttime job writing airport simulation software.
 
-Here are some ideas to get you started:
+All my hobby projects are on this github; the good, the bad and the ugly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+
+- [a C++ game engine](https://github.com/lionkor/antsim3)
+- [a string library](https://github.com/lionkor/String)
+- Learning Ada
+- Learning datastructures for uni by implementing them in C++ ([queue](https://github.com/lionkor/q), [binary search tree](https://github.com/lionkor/btree), ...)
+
+### Collaboration
+
+I'm always happy to contribute time and effort into any project that is looking for a C++ engineer.
