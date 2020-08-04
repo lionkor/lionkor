@@ -13,4 +13,4 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 
 ### Collaboration
 
-I'm always happy to contribute time and effort into any project that is looking for a C++ engineer.
+I'm always happy to contribute time and effort into any project that is looking for a C++ engineer. Contact me via [email](mailto:development@kortlepel.com) if you are interested in a partnership.
