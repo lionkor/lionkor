@@ -9,6 +9,7 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 - [a C++ game engine](https://github.com/lionkor/antsim3)
 - [a string library](https://github.com/lionkor/String)
 - Learning Ada
+- [A C++ calculator](https://github.com/lionkor/cxxcalc)
 - Learning datastructures for uni by implementing them in C++ ([queue](https://github.com/lionkor/q), [binary search tree](https://github.com/lionkor/btree), ...)
 
 ### Collaboration
