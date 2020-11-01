@@ -4,13 +4,14 @@ I'm Lion, I'm a computer science student from germany with a parttime job writin
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
-### Current Projects
+### Currently Active Projects
 
+- Writing Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
 - [a C++ game engine](https://github.com/lionkor/antsim3)
-- [a string library](https://github.com/lionkor/String)
-- Learning Ada
-- [A C++ calculator](https://github.com/lionkor/cxxcalc)
 - Learning datastructures for uni by implementing them in C++ ([queue](https://github.com/lionkor/q), [binary search tree](https://github.com/lionkor/btree), ...)
+- Writing a game or two
+
+There are of course more projects, which you can almost all find in [my repositories](https://github.com/lionkor?tab=repositories&q=&type=public&language=). 
 
 ### Collaboration
 
