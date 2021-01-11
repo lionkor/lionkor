@@ -6,6 +6,7 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 
 ### Currently Active Projects
 
+- Working as a developer on [BeamMP](https://beamng-mp.com/), the multiplayer mod for the game BeamNG.
 - A modern C++ message library [`lk::msg`](https://github.com/lionkor/lkmsg)
 - Writing Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
 - [a C++ game engine](https://github.com/lionkor/antsim3)
