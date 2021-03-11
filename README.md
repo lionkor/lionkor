@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lion, I'm a computer science student from germany with a parttime job writing airport simulation software.
+I'm Lion, I'm a computer science student from germany with a parttime job working on airport simulation software.
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
