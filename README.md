@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Self hosting @ [git.kortlepel.com](https://git.kortlepel.com)
+
 I'm Lion, I'm a computer science student from germany with a parttime job working on airport simulation software.
 
 All my hobby projects are on this github; the good, the bad and the ugly.
