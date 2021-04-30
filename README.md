@@ -11,7 +11,7 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 - Working as a developer on [BeamMP](https://beammp.com/), the multiplayer mod for the game [BeamNG.drive](https://beamng.com).
 - A modern C++ message library [`lk::msg`](https://github.com/lionkor/lkmsg)
 - Writing Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
-- [a C++ game engine](https://github.com/lionkor/antsim3)
+- [Volty, a C++ game engine](https://github.com/lionkor/Volty)
 - Learning datastructures for uni by implementing them in C++ ([queue](https://github.com/lionkor/q), [binary search tree](https://github.com/lionkor/btree), ...)
 - Writing a game or two
 
