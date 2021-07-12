@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### Self hosting @ [git.kortlepel.com](https://git.kortlepel.com)
-
 I'm Lion, I'm a computer science student from germany with a parttime job working on airport simulation software.
 
 All my hobby projects are on this github; the good, the bad and the ugly.
@@ -20,3 +18,5 @@ There are of course more projects, which you can almost all find in [my reposito
 ### Collaboration
 
 I'm always happy to contribute time and effort into any project that is looking for a C++ engineer. Contact me via [email](mailto:development@kortlepel.com) if you are interested in a partnership.
+
+Self hosting @ [git.kortlepel.com](https://git.kortlepel.com)
