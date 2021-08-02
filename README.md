@@ -4,6 +4,8 @@ I'm Lion, I'm a computer science student from germany with a parttime job workin
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
+→ You can hire me to debug your code [here](https://www.fiverr.com/s2/3e71171e41).
+
 ### Currently Active Projects
 
 - Working as a developer on [BeamMP](https://beammp.com/), the multiplayer mod for the game [BeamNG.drive](https://beamng.com).
