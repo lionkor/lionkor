@@ -9,7 +9,7 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 ### Currently Active Projects
 
 - Tech lead at [@RTSPlex](https://github.com/RTSPlex)
-- Working as a developer on [BeamMP](https://beammp.com/) ([BeamMP-Server repository](https://github.com/BeamMP/BeamMP-Server)), the multiplayer mod for the game [BeamNG.drive](https://beamng.com).
+- Working as a developer on [BeamMP](https://beammp.com/) ([BeamMP-Server repository](https://github.com/BeamMP/BeamMP-Server)), the multiplayer mod for the game [BeamNG.drive](https://beamng.com)
 - Writing Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
 - Learning [Zig](https://ziglang.org/)
 
