@@ -18,5 +18,3 @@ There are of course more projects, which you can almost all find in [my reposito
 ### Collaboration
 
 I'm always happy to contribute time and effort into any project that is looking for a C++ engineer. Contact me via [email](mailto:development@kortlepel.com) if you are interested in a partnership.
-
-![](https://komarev.com/ghpvc/?username=lionkor)
