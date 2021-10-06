@@ -14,7 +14,7 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 - Writing Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
 - Learning [Zig](https://ziglang.org/)
 
-There are of course more projects, which you can almost all find in [my repositories](https://github.com/lionkor?tab=repositories&q=&type=public&language=). 
+There are of course more projects, which you can almost all find in [my repositories](https://github.com/lionkor?tab=repositories&q=&type=public&language=), or on my [GitLab](https://gitlab.com/lionkor).
 
 ### Collaboration
 
