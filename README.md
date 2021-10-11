@@ -8,7 +8,7 @@ I enjoy writing and reviewing source code, optimizing and improving it. I'm very
 
 Next to my University study of informatics and my work in airport simulation software, I work on a few smaller open-source and source-available projects, and do lots of recreational programming. The most enjoyment I get from programming is when I get to solve larger issues on both a design- and implementation level, and I have a lot of experience doing so.
 
-A lot of my personal projects, however, revolve around "re-implementing the wheel"; developing a common technology from the ground up, in order to learn about the internals and challenges, and to grow my understanding of it.
+A lot of my personal projects, however, revolve around "re-inventing the wheel"; developing a common technology from the ground up, in order to learn about the internals and challenges, and to grow my understanding of it.
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
