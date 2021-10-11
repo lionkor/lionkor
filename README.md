@@ -2,7 +2,7 @@
 
 I'm Lion, I'm a passionate software developer! I work mostly on open-source and source-available projects, as well as a parttime job working on airport simulation software.
 
-All my hobby projects are on this github; the good, the bad and the ugly. I'm from Germany.
+All my hobby projects are on this github; the good, the bad and the ugly.
 
 → You can also hire me [here](https://www.fiverr.com/s2/3e71171e41).
 
