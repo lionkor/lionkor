@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lion, I'm a passionate software developer! I work mostly on open-source and source-available projects, as well as a parttime job working on airport simulation software.
+I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects, as well as a parttime job working on airport simulation software.
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
