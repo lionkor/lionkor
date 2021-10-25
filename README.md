@@ -16,9 +16,9 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 
 - Tech lead at [@RTSPlex](https://github.com/RTSPlex)
 - Working as a developer on [BeamMP](https://beammp.com/) ([BeamMP-Server repository](https://github.com/BeamMP/BeamMP-Server)), the multiplayer mod for the game [BeamNG.drive](https://beamng.com)
-- Working on [a custom language and compiler](https://github.com/lionkor/compiler-project)
-- Writing Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
-- Learning [Zig](https://ziglang.org/)
+- A [http server](https://github.com/lionkor/http) in C
+- [A custom language and compiler](https://github.com/lionkor/compiler-project) in order to learn more about compilers
+- Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
 
 There are of course more projects, which you can almost all find in [my repositories](https://github.com/lionkor?tab=repositories&q=&type=public&language=), or on my [GitLab](https://gitlab.com/lionkor).
 
