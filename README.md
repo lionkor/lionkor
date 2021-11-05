@@ -17,6 +17,7 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 - Tech lead at [@RTSPlex](https://github.com/RTSPlex)
 - Working as a developer on [BeamMP](https://beammp.com/) ([BeamMP-Server repository](https://github.com/BeamMP/BeamMP-Server)), the multiplayer mod for the game [BeamNG.drive](https://beamng.com)
 - A [http server](https://github.com/lionkor/http) in C
+- A cross-platform socket wrapper in C++20: [lionkor/net](https://github.com/lionkor/net)
 - [A custom language and compiler](https://github.com/lionkor/compiler-project) in order to learn more about compilers
 - Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
 
