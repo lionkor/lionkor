@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+
+[![](https://img.shields.io/badge/Patreon-Support%20my%20Work!-%23ff424d)](https://patreon.com/lion_kor) [![](https://img.shields.io/badge/E--Mail-Message%20me!-blue)](mailto:development@kortlepel.com) [![](https://img.shields.io/badge/Discord-Join%20Us!-%237289da%20)](https://discord.gg/6vKcaMqR5K)
+
+<a href="https://www.patreon.com/bePatron?u=64868905" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects, as well as a parttime job working on airport simulation software.
 
