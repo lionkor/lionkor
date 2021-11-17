@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/Patreon-Support%20my%20Work!-%23ff424d)](https://patreon.com/lion_kor) [![](https://img.shields.io/badge/PayPal-Support%20my%20Work!-%230079c1%20)](https://www.paypal.com/donate?hosted_button_id=BHWMH7GDX35QS)
+[![](https://img.shields.io/badge/Support%20my%20Work-Patreon-%23ff424d)](https://patreon.com/lion_kor) 
+[![](https://img.shields.io/badge/Support%20my%20Work-PayPal-%230079c1%20)](https://www.paypal.com/donate?hosted_button_id=BHWMH7GDX35QS)
 
 ## Hi there 👋 
 
