@@ -1,9 +1,13 @@
-[![](https://img.shields.io/badge/Support%20my%20Work-Patreon-%23ff424d)](https://patreon.com/lion_kor) 
-[![](https://img.shields.io/badge/Support%20my%20Work-PayPal-%230079c1%20)](https://www.paypal.com/donate?hosted_button_id=BHWMH7GDX35QS)
-
 ## Hi there 👋 
 
 I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects, as well as a parttime job working on airport simulation software.
+
+### Support my Work
+
+If you enjoy my contributions, please consider donating, as all of my work on public projects is free.
+
+[![](https://img.shields.io/badge/Support%20my%20Work-Patreon-%23ff424d)](https://patreon.com/lion_kor) 
+[![](https://img.shields.io/badge/Support%20my%20Work-PayPal-%230079c1%20)](https://www.paypal.com/donate?hosted_button_id=BHWMH7GDX35QS)
 
 ### About Me
 
