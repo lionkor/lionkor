@@ -19,6 +19,8 @@ A lot of my personal projects, however, revolve around "re-inventing the wheel";
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
+<sub>*My profile picture was taken in Novorossiysk.*</sub>
+
 ### Currently Active Projects
 
 - Tech lead at [@RTSPlex](https://github.com/RTSPlex)
@@ -36,5 +38,6 @@ I'm always happy to contribute time and effort into any project that is looking 
 
 [![](https://img.shields.io/badge/E--Mail-Message%20me!-blue)](mailto:development@kortlepel.com) [![](https://img.shields.io/badge/Discord-Join%20my%20server!-%237289da%20)](https://discord.gg/6vKcaMqR5K)
 
+### Fancy Pictures
 
-<sub>*My profile picture was taken in Novorossiysk.*</sub>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lionkor&theme=default)
