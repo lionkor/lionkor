@@ -1,6 +1,8 @@
 ## Hi there 👋 
 
-I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects, as well as a parttime job working on airport simulation software.
+I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects.
+
+**__I'M LOOKING FOR CONTRACT/FREELANCE JOBS! [HIRE ME](mailto:development@kortlepel.com)!__**
 
 ### Support my Work
 
@@ -8,6 +10,13 @@ If you enjoy my contributions, please consider donating, as all of my work on pu
 
 [![](https://img.shields.io/badge/Support%20my%20Work-Patreon-%23ff424d)](https://patreon.com/lion_kor) 
 [![](https://img.shields.io/badge/Support%20my%20Work-PayPal-%230079c1%20)](https://www.paypal.com/donate?hosted_button_id=BHWMH7GDX35QS)
+
+### Hire me
+
+I'm currently available for hire for contact, temp, freelance work as a software developer. Contact me via 
+
+- [EMail](mailto:development@kortlepel.com)
+- Discord: `Lion#5934`
 
 ### About Me
 
