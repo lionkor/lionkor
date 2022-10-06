@@ -2,8 +2,6 @@
 
 I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects.
 
-**__I'M LOOKING FOR CONTRACT/FREELANCE JOBS! [HIRE ME](mailto:development@kortlepel.com)!__**
-
 ### Support my Work
 
 If you enjoy my contributions, please consider donating, as all of my work on public projects is free.
@@ -13,7 +11,7 @@ If you enjoy my contributions, please consider donating, as all of my work on pu
 
 ### Hire me
 
-I'm currently available for hire for contact, temp, freelance work as a software developer. Contact me via 
+I'm currently available for hire for contract, temp, freelance work as a software developer. Contact me via 
 
 - [EMail](mailto:development@kortlepel.com)
 - Discord: `Lion#5934`
