@@ -26,7 +26,7 @@ A lot of my personal projects, however, revolve around "re-inventing the wheel";
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
-<sub>*My profile picture was taken in Novorossiysk.*</sub>
+*My profile picture was taken in North Ossetia-Alania.*
 
 ### Currently Active Projects
 
