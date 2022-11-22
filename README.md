@@ -2,6 +2,8 @@
 
 I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects.
 
+**[Blog](https://blog.kortlepel.com/)**
+
 ### Support my Work
 
 If you enjoy my contributions, please consider donating, as all of my work on public projects is free.
