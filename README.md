@@ -32,13 +32,9 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 
 ### Currently Active Projects
 
+- [A stack-based language with optimizing compiler and bytecode interpreter](https://github.com/lionkor/mcl)
 - [A simple, fast, persistent (disk-backed) key-value store with REST API, written in C++](https://github.com/lionkor/kv-api)
 - [A library for asynchronous terminal input/output](https://github.com/lionkor/commandline), similar to GNU getline
-- Working as a developer on [BeamMP](https://beammp.com/) ([BeamMP-Server repository](https://github.com/BeamMP/BeamMP-Server)), the multiplayer mod for the game [BeamNG.drive](https://beamng.com)
-- A [http server](https://github.com/lionkor/http) in C
-- A cross-platform socket wrapper in C++20: [lionkor/net](https://github.com/lionkor/net)
-- [A custom language and compiler](https://github.com/lionkor/compiler-project) in order to learn more about compilers
-- Unix-y cli utilities like [hdump](https://github.com/lionkor/hdump) as a learning experience
 
 There are of course more projects, which you can almost all find in [my repositories](https://github.com/lionkor?tab=repositories&q=&type=public&language=), or on my [GitLab](https://gitlab.com/lionkor).
 
