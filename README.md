@@ -16,7 +16,7 @@ If you enjoy my contributions, please consider donating, as all of my work on pu
 I'm currently available for hire for contract, temp, freelance work as a software developer. Contact me via 
 
 - [EMail](mailto:development@kortlepel.com)
-- Discord: `Lion#5934`
+- Discord: `lion_kor`
 
 ### About Me
 
@@ -28,7 +28,7 @@ A lot of my personal projects, however, revolve around "re-inventing the wheel";
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
-*My profile picture was taken in North Ossetia-Alania.*
+*My profile picture was taken in North Ossetia-Alania, Russia, 2022.*
 
 ### Currently Active Projects
 
@@ -40,7 +40,7 @@ There are of course more projects, which you can almost all find in [my reposito
 
 ### Collaboration
 
-I'm always happy to contribute time and effort into any project that is looking for a C++ engineer. Contact me via [email](mailto:development@kortlepel.com) if you are interested in a partnership.
+I'm always happy to contribute time and effort into any project that is looking for a C++, C or Rust engineer. Contact me via [email](mailto:development@kortlepel.com) if you are interested in a partnership.
 
 [![](https://img.shields.io/badge/E--Mail-Message%20me!-blue)](mailto:development@kortlepel.com) [![](https://img.shields.io/badge/Discord-Join%20my%20server!-%237289da%20)](https://discord.gg/6vKcaMqR5K)
 
