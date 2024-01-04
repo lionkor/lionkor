@@ -46,4 +46,6 @@ I'm always happy to contribute time and effort into any project that is looking 
 
 ### Fancy Pictures
 
+![](https://github-readme-stats.vercel.app/api?username=lionkor&show_icons=true)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lionkor&theme=default)
