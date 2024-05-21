@@ -32,6 +32,7 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 
 ### Currently Active Projects
 
+- [High performance multithreaded multiplayer game server](https://github.com/BeamMP/BeamMP-Server) for [BeamMP](https://beammp.com)
 - [A stack-based language with optimizing compiler and bytecode interpreter](https://github.com/lionkor/mcl)
 - [A simple, fast, persistent (disk-backed) key-value store with REST API, written in C++](https://github.com/lionkor/kv-api)
 - [A library for asynchronous terminal input/output](https://github.com/lionkor/commandline), similar to GNU getline
