@@ -44,9 +44,3 @@ There are of course more projects, which you can almost all find in [my reposito
 I'm always happy to contribute time and effort into any project that is looking for a C++, C or Rust engineer. Contact me via [email](mailto:development@kortlepel.com) if you are interested in a partnership.
 
 [![](https://img.shields.io/badge/E--Mail-Message%20me!-blue)](mailto:development@kortlepel.com) [![](https://img.shields.io/badge/Discord-Join%20my%20server!-%237289da%20)](https://discord.gg/6vKcaMqR5K)
-
-### Fancy Pictures
-
-![](https://github-readme-stats.vercel.app/api?username=lionkor&show_icons=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lionkor&theme=default)
