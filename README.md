@@ -1,6 +1,17 @@
 ## Hi there 👋 
 
-I'm Lion, I'm a software developer! I work mostly on open-source and source-available projects.
+I'm Lion, I'm a software developer! I work mostly on open-source projects, and on my job adjacent to the medical industry.
+
+TL;DR:
+
+- Happily married
+- Software engineer
+- Systems programmer
+- Love open source
+- Writing code as a hobby
+- Love Rust, C, Vim
+- Like C#, TypeScript, Go, Zig
+- Happy to use anything to solve a problem
 
 ### Support my Work
 
@@ -11,10 +22,7 @@ If you enjoy my contributions, please consider donating, as all of my work on pu
 
 ### Hire me
 
-I'm currently available for hire for contract, temp, freelance work as a software developer. Contact me via 
-
-- [EMail](mailto:development@kortlepel.com)
-- Discord: `lion_kor`
+I'm always looking around for opportunities as a fulltime software developer. Contact me via [EMail](mailto:development+gh@kortlepel.com).
 
 ### About Me
 
