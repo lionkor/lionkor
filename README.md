@@ -30,7 +30,7 @@ I enjoy writing and reviewing source code, optimizing and improving it. I'm very
 
 All my hobby projects are on this github; the good, the bad and the ugly.
 
-*My profile picture was taken in North Ossetia-Alania, Russia, 2022.*
+My profile picture was taken in North Ossetia-Alania, Russia, 2022 :^).
 
 ### Cool Projects
 
