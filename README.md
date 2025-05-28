@@ -34,11 +34,13 @@ All my hobby projects are on this github; the good, the bad and the ugly.
 
 ### Cool Projects
 
-- Official implementation of a [high performance multithreaded multiplayer game server](https://github.com/BeamMP/BeamMP-Server) for [BeamMP](https://beammp.com), which has 1.4M+ registered players
-- [An "esolang" programming language, with a hand written compiler to x86_64](https://github.com/HF-Foundation)
-- [A stack-based language with optimizing compiler and bytecode interpreter](https://github.com/lionkor/mcl) and [a Rust port](https://github.com/lionkor/mcl-rs)
-- [A simple, fast, persistent (disk-backed) key-value store with REST API, written in C++](https://github.com/lionkor/kv-api)
-- [A library for asynchronous terminal input/output](https://github.com/lionkor/commandline), similar to GNU getline
+- Official implementation of a [high performance multithreaded multiplayer game server (C++)](https://github.com/BeamMP/BeamMP-Server) for [BeamMP](https://beammp.com), which has 1.4M+ registered players
+- [An "esolang" programming language, with a hand written compiler to x86_64 (Rust, ASM)](https://github.com/HF-Foundation)
+- [A stack-based language with optimizing compiler and bytecode interpreter (C++)](https://github.com/lionkor/mcl) and [a Rust port](https://github.com/lionkor/mcl-rs)
+- [A high-performance "firehose" TCP reverse proxy (Rust)](https://github.com/voltlane/connserver), find the pitch at [voltlane.net](https://voltlane.net)
+- [A simple, fast, persistent (disk-backed) key-value store with REST API (C++)](https://github.com/lionkor/kv-api)
+- [A library for asynchronous terminal input/output (C++)](https://github.com/lionkor/commandline), similar to GNU getline
+- [A multithreaded HTTP/1.0 and 1.1 server, from scratch in C](https://github.com/lionkor/http)
 
 There are of course more projects, which you can almost all find in [my repositories](https://github.com/lionkor?tab=repositories&q=&type=public&language=), or on my [GitLab](https://gitlab.com/lionkor).
 
