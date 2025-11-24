@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Lion, I'm a software developer! I work mostly on open-source projects, and on my job adjacent to the medical industry.
+I'm Lion, I'm a software developer! I work mostly on open-source projects, and on my job in the electrical power industry (working on high- to ultra high voltage testing- and measurement equipment).
 
 TL;DR:
 
