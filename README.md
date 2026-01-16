@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Lion, I'm a software engineer! I work mostly on open-source projects, and for work I develop software for ultra-high-voltage electrical diagnostic and condition-monitoring systems.
+I'm Lion, I'm a software engineer! I work mostly on open-source projects, and for work I develop software for high-voltage electrical diagnostic and condition-monitoring systems.
 
 TL;DR:
 
