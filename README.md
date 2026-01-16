@@ -20,10 +20,6 @@ If you enjoy my contributions, please consider donating, as all of my work on pu
 [![](https://img.shields.io/badge/Support%20my%20Work-Patreon-%23ff424d)](https://patreon.com/lion_kor) 
 [![](https://img.shields.io/badge/Support%20my%20Work-PayPal-%230079c1%20)](https://www.paypal.com/donate?hosted_button_id=BHWMH7GDX35QS)
 
-### Hire me
-
-I'm always looking around for opportunities as a fulltime software developer. Contact me via [EMail](mailto:development+gh@kortlepel.com).
-
 ### About Me
 
 I enjoy writing and reviewing source code, optimizing and improving it. I'm very passionate about experimenting with low-level programming, performance optimization and ensuring high code quality in any projects I can get my hands on. 
